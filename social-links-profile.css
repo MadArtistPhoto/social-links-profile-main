@@ -142,7 +142,27 @@ a:hover
     color: var(--card-dark-grey);
 }
 
-#custom-pointer
+#custom-pointer1
+{
+    cursor: url(assets/images/custom-cursor.cur), auto;
+}
+
+#custom-pointer2
+{
+    cursor: url(assets/images/custom-cursor.cur), auto;
+}
+
+#custom-pointer3
+{
+    cursor: url(assets/images/custom-cursor.cur), auto;
+}
+
+#custom-pointer4
+{
+    cursor: url(assets/images/custom-cursor.cur), auto;
+}
+
+#custom-pointer5
 {
     cursor: url(assets/images/custom-cursor.cur), auto;
 }

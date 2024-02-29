@@ -42,7 +42,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 - This was a pretty simple design. Yet it was a good one to practice the basics.
 
-- This project shows a black hand for the pointer in the 'active' design image. That was a challenge to replicate.
+- This project shows a black hand for the pointer in the 'active' design image. That was a challenge to replicate. The code isn't pretty, but it works. Pretty sure there is a better way.
 
 - First time using .gitignore. I figure I don't need to push un-needed files (ie: style-guide, README-template, etc.) to GitHub.
 
