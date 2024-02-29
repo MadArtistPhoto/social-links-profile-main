@@ -78,13 +78,13 @@ body
     border-radius: 10px;
 }
 
-picture
+header
 {
     width: 90px;
     margin-bottom: 20px;
 }
 
-picture img
+header img
 {
     border-radius: 45px;
 }
