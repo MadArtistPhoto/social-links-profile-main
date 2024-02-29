@@ -24,7 +24,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://madartistphoto.github.io/social-links-profile-main/)
+- Solution URL: [Social Links Profile](https://madartistphoto.github.io/social-links-profile-main/)
 
 ## My process
 
@@ -52,6 +52,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - DO NOT START CODING ON THE COMPUTER. Either print it out and makes notes on the printed page ordraw it out and make notes there. Then start writing the code by hand.
 
 - I need to finish the last few CSS lessons on W3Schools. Then I can start learning JavaScript.
+
+- Practice makes perfect. While my coding is nowhere near perfect I have learned over the years that the more time spent doing something like this that I enjoy results in faster learning and greater retention. So I am trying to spend at least one or two hours a day writing code, checking out GitHub, perusing Frontend Mentor, or doing something related to coding.
 
 ## Useful Resources
 
