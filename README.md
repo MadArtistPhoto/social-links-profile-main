@@ -33,7 +33,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - Visual Studio Code - using HTML5 & CSS3
 - Mobile-first workflow
 - ZonerX (for viewing the supplied images)
-- Paint.net (for creating the Screenshot image)
+- Paint.net (for creating the Screenshot image and custom cursor)
+- Greenfish Icon Editor (for creating custom cursor)
 - GitHub Pages
 - GitHub (still very un-intuitive, but I'm learning)
 

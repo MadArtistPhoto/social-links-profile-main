@@ -142,6 +142,11 @@ a:hover
     color: var(--card-dark-grey);
 }
 
+#custom-pointer
+{
+    cursor: url(assets/images/custom-cursor.cur), auto;
+}
+
 @media screen and (min-width: 375px)
 {
     body
