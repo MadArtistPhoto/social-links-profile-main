@@ -1,0 +1,191 @@
+/* social-links-provile.css */
+
+:root
+{
+--location-green: hsl(75, 94%, 57%);
+--text-white: hsl(0, 0%, 100%);
+--links-grey: hsl(0, 0%, 20%);
+--card-dark-grey: hsl(0, 0%, 12%);
+--container-off-black: hsl(0, 0%, 8%);
+
+font-size: 14px
+}
+
+*, ::before, ::after
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+img
+{
+    width: 100%;
+    height: auto;
+}
+
+@font-face
+{
+    font-family: 'Inter-Bold';
+    src: url('assets/fonts/static/Inter-Bold.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face
+{
+    font-family: 'Inter-Regular';
+    src: url('assets/fonts/static/Inter-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face
+{
+    font-family: 'Inter-SemiBold';
+    src: url('assets/fonts/static/Inter-SemiBold.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+body
+{
+    background-color: var(--text-white);
+    color: var(--text-white);
+    width: 100vw;
+    height: 100vh;
+}
+
+#container
+{
+    width: 100vw;
+    height: 100vh;
+    max-width: 375px;
+    background-color: var(--container-off-black);
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+
+.card
+{
+    margin: auto;
+    padding: 25px 0px;
+    width: 330px;
+    background-color: var(--card-dark-grey);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+}
+
+picture
+{
+    width: 90px;
+    margin-bottom: 20px;
+}
+
+picture img
+{
+    border-radius: 45px;
+}
+
+h1
+{
+    font-size: 32px;
+    margin-bottom: 10px;
+    font-family: 'Inter-Regular';
+    font-size: 25px;
+}
+
+h2
+{
+    color: var(--location-green);
+    margin-bottom: 30px;
+    font-family: 'Inter-regular';
+    font-size: 14px;
+}
+
+p
+{
+    margin-bottom: 25px;
+    font-family: 'Inter-Regular';
+}
+
+li
+{
+    background-color: var(--links-grey);
+    text-align: center;
+    list-style-type: none;
+    height: 45px;
+    width: 280px;
+    border-radius: 10px;
+    margin-bottom: 16px;
+    font-family: 'Inter-SemiBold';
+}
+li:last-child
+{
+    margin-bottom: 0px;
+}
+
+a
+{
+    display: block;
+    padding: 14px;
+    color: var(--text-white);
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+a:hover
+{
+    background-color: var(--location-green);
+    color: var(--card-dark-grey);
+}
+
+@media screen and (min-width: 375px)
+{
+    body
+    {
+        background-color: black;
+    }
+
+    #container
+    {
+        width: 100%;
+        max-width: 1440px;
+    }
+
+    .card
+    {
+        width: 385px;
+        height: 612px;
+        padding: 40px 0px 10px 0px;
+    }
+
+    picture
+    {
+        margin-bottom: 23px;
+    }
+
+    h1
+    {
+        margin-bottom: 9px;
+    }
+
+    h2
+    {
+        margin-bottom: 28px;
+    }
+
+    p
+    {
+        margin-bottom: 26px;
+    }
+
+    li
+    {
+        width: 303px;
+    }
+
+    
+}
