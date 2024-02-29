@@ -24,8 +24,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://madartistphoto.github.io/social-links-profile-main/)
 
 ## My process
 
@@ -44,9 +43,19 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 - This project shows a black hand for the pointer in the 'active' design image. That was a challenge to replicate.
 
+- First time using .gitignore. I figure I don't need to push un-needed files (ie: style-guide, README-template, etc.) to GitHub.
+
+- Learning more about GitHub everytime I use it.
+
 ### Continued development
 
 - DO NOT START CODING ON THE COMPUTER. Either print it out and makes notes on the printed page ordraw it out and make notes there. Then start writing the code by hand.
+
+- I need to finish the last few CSS lessons on W3Schools. Then I can start learning JavaScript.
+
+## Useful Resources
+
+- W3School - Yeah, many people give them grief for being simplistic and out-dated. But starting out with Frontend Mentor doesn't require cutting edge coding. They are a good source for the basics.
 
 ## Author
 
@@ -56,4 +65,4 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## Acknowledgments
 
-Just a shout out to all other creators on Frontend Mentor. It is wonderful learning experience to view other solutions and see how other Coders create the thing.
+Just a shout out to all other creators on Frontend Mentor. It is wonderful learning experience to view other solutions and see how other Coders create the same thing.
