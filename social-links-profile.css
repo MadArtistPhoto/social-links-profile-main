@@ -64,11 +64,11 @@ body
     margin: auto;
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .card
 {
-    margin: auto;
     padding: 25px 0px;
     width: 330px;
     background-color: var(--card-dark-grey);
